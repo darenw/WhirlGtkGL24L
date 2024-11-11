@@ -5,15 +5,20 @@
  * 
  * This is the main source file supplying main()
  * The top level interesting stuff is in WhirlMainWindow 
+ * 
+ * Basic edit-build-run cycle:
+ *      geany -i  src/*vala &
+ *      ninja -C b
+ *      b/whirlgtk
  */
  
  
  
 int main(string[] args)   
 {
-    
-    
-    return 22;
+    var app = new WhirlApplication();
+    var r = app.run(args);
+    return r;
 }
  
  

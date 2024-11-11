@@ -18,3 +18,14 @@ Version of animation with hoop segments, sorta: https://youtu.be/AyDRz3i7xNw?si=
 https://en.wikipedia.org/wiki/Plate_trick
 https://www.gregegan.net/APPLETS/21/21.html crude 1990's style page on belt trick
 https://homes.luddy.indiana.edu/hansona/quatvis/Belt-Trick/index.html
+
+## Contact
+
+
+
+Daren Scot Wilson
+https://www.darenscotwilson.com
+
+https://www.linkedin.com/in/daren-scot-wilson/
+https://www.quora.com/profile/Daren-Scot-Wilson 
+https://github.com/darenw 

@@ -5,7 +5,9 @@
 project('whirlgtk',  'vala', 'c')
 
 src = files(
-    'src/main.vala'
+    'src/main.vala',
+    'src/WhirlApplication.vala',
+    'src/MainWindow.vala'
 )
 
 
